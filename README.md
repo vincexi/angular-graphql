@@ -1,3 +1,7 @@
+# Angular
+
+This app uses GraphQL to get data from https://api.spacex.land/graphql/ to generate lean payloads to be consumed by Angular
+
 # AngularGraphql
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
